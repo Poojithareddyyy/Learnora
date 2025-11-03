@@ -36,7 +36,7 @@ A modern, responsive educational technology platform built with React that provi
 ## 📁 Project Structure
 
 ```
-learnify/
+learnora/
 ├── public/
 │   ├── index.html
 │   └── a.png
@@ -349,16 +349,6 @@ src/
 - Mobile app development
 - Integration with popular learning platforms
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**CodeArunJ**
-- GitHub: [@CodeArunJ](https://github.com/CodeArunJ)
-- Project Link: [https://github.com/CodeArunJ/learnify](https://github.com/CodeArunJ/learnify)
-
 ## 🙏 Acknowledgments
 
 - React.js community for excellent documentation
@@ -369,4 +359,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **⭐ Star this repository if you find it helpful!**
+
 
